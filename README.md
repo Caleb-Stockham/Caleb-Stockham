@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently working on Tech Elevator's Prework.
+I'm currently learning javascript and how to use software developer tools.
+I'm looking for help with the optimal way to learn as much as possible.
+Ask me about exercise, nutrition, investing, personal finance, neroscience, artificial intellegence.
+How to reach me: caleb23459@gmail.com
+Fun fact: I have a hole-in-one.
