@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Caleb Stockham, and I'm a software developer who recently graduated from Tech Elevator with a background in Business.
+My name is Caleb Stockham, and I'm a software developer who recently graduated from Tech Elevator with a background in Business. I aim to create applications that help people's everyday lives!
 
 - 🔭 I’m currently working on Midl - An app designed to simplify gatherings by finding the optimal midpoint among multiple locations based on equal drive time. Users can effortlessly create and add users to a group where each individual inputs their address, Midl calculates the central point where all attendees can converge in equal travel time. Powered by the Google Maps API, Midl ensures accurate geolocation data and provides a visual map display of the midpoint, making it ideal for organizing weddings, corporate events, conferences, golf trips, meet-ups, and any event where attendees come from different places. Take the stress out of location planning with Midl, your ultimate event coordination companion. Midl... Meet in the Middle.
 - 🌱 I’m currently learning React.js, Containerization (Docker), and how to optimally deploy applications to the cloud. I will also try to convert Java from Midl to Kotlin and Swift for mobile applications.
