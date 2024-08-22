@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently working on Tech Elevator's Prework.
-I'm currently learning javascript and how to use software developer tools.
-I'm looking for help with the optimal way to learn as much as possible.
-Ask me about exercise, nutrition, investing, personal finance, neroscience, artificial intellegence.
-How to reach me: caleb23459@gmail.com
-Fun fact: I have a hole-in-one.
+My name is Caleb Stockham, and I'm a software developer who recently graduated from Tech Elevator with a background in Business.
+
+- 🔭 I’m currently working on Midl - An app designed to simplify gatherings by finding the optimal midpoint among multiple locations based on equal drive time. Users can effortlessly create and add users to a group where each individual inputs their address, Midl calculates the central point where all attendees can converge in equal travel time. Powered by the Google Maps API, Midl ensures accurate geolocation data and provides a visual map display of the midpoint, making it ideal for organizing weddings, corporate events, conferences, golf trips, meet-ups, and any event where attendees come from different places. Take the stress out of location planning with Midl, your ultimate event coordination companion. Midl... Meet in the Middle.
+- 🌱 I’m currently learning React.js, Containerization (Docker), and how to optimally deploy applications to the cloud. I will also try to convert Java from Midl to Kotlin and Swift for mobile applications.
+- 👯 I recently built [Cover My Shift](https://github.com/Caleb-Stockham/Cover-My-Shift) - The platform streamlines scheduling for managers and facilitates shift management, time-off requests, and  hours tracking for employees. Created the project from inception to deployment, showcasing skills in collaborative development (agile), business logic, Vue.js, Java, PostgreSQL, and much more.
+- ⚡ My Skills - Agile | CSS | E/R diagrams | Git | HTML | Integration Testing | IntelliJ | Java | JavaScript | JDBC | PostgreSQL | SQL | Spring Boot | Table Design | Unit Testing (JUnit) | Vue.js | AWS Certified Cloud Practitioner | CI/CD | React.js | Docker |
